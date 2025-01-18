@@ -1,6 +1,6 @@
 .odd {
-    background-color: rgb(258, 198, 200);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 167, 202);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #two {
@@ -9,7 +9,7 @@
 }
 
 #three {
-    background-color:  lightgreen;
+    background-color: hsl(105, 86%, 72%);
     font-size: 24px;
     font-weight: bold;
 }
